@@ -1,4 +1,4 @@
-//SUMA DE CUADRADOS N=5
+
 n = 5
 
 # Calcular la suma de cuadrados

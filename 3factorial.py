@@ -1,4 +1,4 @@
-//CALCULAR FACTORIAL DE UN NUMERO
+
 # Pedir al usuario un número
 n = int(input("Ingresa un número: "))
 
