@@ -1,4 +1,4 @@
-//EJERCICIO FIBONACCI
+
 # Pedir al usuario el número de términos
 n = int(input("Ingresa cuántos términos de Fibonacci quieres: "))
 
